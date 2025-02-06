@@ -11,19 +11,19 @@
                     <p>
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/   " alt="">
                     </p>
-                    <p>テキスト</p>
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
                 </li>
                 <li>
                     <p>
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/   " alt="">
                     </p>
-                    <p>テキスト</p>
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
                 </li>
                 <li>
                     <p>
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/   " alt="">
                     </p>
-                    <p>テキスト</p>
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
                 </li>
             </ul>
     </section>
@@ -34,13 +34,13 @@
                     <p>
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/   " alt="">
                     </p>
-                    <p>テキスト</p>
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキス</p>
                 </li>
                 <li>
                     <p>
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/   " alt="">
                     </p>
-                    <p>テキスト</p>
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
                 </li>
             </ul> 
             <ul class="service_flex">
@@ -48,13 +48,13 @@
                     <p>
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/   " alt="">
                     </p>
-                    <p>テキスト</p>
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
                 </li>
                 <li>
                     <p>
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/   " alt="">
                     </p>
-                    <p>テキスト</p>
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
                 </li>
             </ul>
             <ul class="service_flex">
@@ -62,13 +62,13 @@
                     <p>
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/   " alt="">
                     </p>
-                    <p>テキスト</p>
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
                 </li>
                 <li>
                     <p>
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/   " alt="">
                     </p>
-                    <p>テキスト</p>
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
                 </li>
             </ul>
     </section>
@@ -163,7 +163,7 @@
                             <span>個人情報の取り扱いについてご同意いただける場合は、チェックしてください。</span>
                         </div>
                      </div>
-                     <input type="image" src="<?php echo get_template_directory_uri(); ?>/assets/img/  " alt="送信する">
+                     <input type="image" src="<?php echo get_template_directory_uri(); ?>/assets/img/button-submit.png " alt="送信する">
                 </form>
 
 </main>

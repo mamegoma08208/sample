@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="description" content="sample" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/assets/css/destyle.css" />
   <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/assets/css/style.css" />
   <?php wp_head(); ?>
 </head>
@@ -19,12 +20,10 @@
             <div class="logo_container">
               <div class="logo_text">
                 <a href="<?php echo esc_url(home_url('/')); ?>" rel="home">
-                  <img src="<?php echo get_template_directory_uri(); ?>/assets/img/      " />
-                  <span>Sample</span>
+                  <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sample.png"/>
                 </a>
               </div>
             </div>
-            <div>
               <ul class="serect">
                 <li class="nav-item">
                   <a class="nav-link" href="<?php echo home_url();?>/category/news">
@@ -42,7 +41,6 @@
                     </a>
                 </li>
                 </ul>
-            </div>
           </nav>
         </div>
         </div>
